@@ -3,3 +3,4 @@ def using_push
   next_color = "violet"
   updated_array = using_push(colors_in_the_rainbow, next_color)
 end
+
